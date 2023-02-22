@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Alvar
- *
- */
-module SUPERMERCADO {
-}
