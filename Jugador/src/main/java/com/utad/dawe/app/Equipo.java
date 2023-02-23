@@ -40,8 +40,6 @@ public class Equipo {
 	         jugador2.setAnotacion(anotaciones2);
 	         jugador2.setBloqueo(bloqueos2);
 	         jugador2.setTiempojugado(tiempojugado2);
-
-	         // resto del código
 	     
 	            System.out.println();
 
